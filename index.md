@@ -5,6 +5,7 @@
 #### 邮箱
 #### 电话
 #### 地址
+<div>
 <table border="0">
   <tr>
     <td width="75%">
@@ -18,3 +19,4 @@
     </td>
   </tr>
 </table>
+</div>

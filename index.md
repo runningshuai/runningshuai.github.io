@@ -1,11 +1,3 @@
-### 个人信息
-#### 姓名
-#### 学历
-#### 学校
-#### 邮箱
-#### 电话
-#### 地址
----
 <div>
 <table border="0">
   <tr>
@@ -16,8 +8,15 @@
       <p><b>18岁</b></p>
     </td>
     <td width="25%">
-      <img src="myphoto.jpeg" width="100%"
+      <img src="/myphoto.jpeg" width="100%"
     </td>
   </tr>
 </table>
 </div>
+---
+##教育背景
+-
+##工作经历
+###公司1
+--
+

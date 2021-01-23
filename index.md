@@ -8,15 +8,15 @@
       <p><b>18岁</b></p>
     </td>
     <td width="25%">
-      <img src="/myphoto.jpeg" width="100%"
+      <img src="/myphoto.jpeg" width="100%">
     </td>
   </tr>
 </table>
 </div>
 ---
-##教育背景
+## 教育背景
 -
-##工作经历
-###公司1
+## 工作经历
+### 公司1
 --
 
